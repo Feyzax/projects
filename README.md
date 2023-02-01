@@ -1,0 +1,2 @@
+# selectionsort
+patika.dev proje
