@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ArtıkYıl{
+class ArtikYil{
     public static void main(String[] args) {
     Scanner w=new Scanner(System.in);
     int n;
